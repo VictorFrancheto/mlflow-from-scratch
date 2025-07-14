@@ -40,3 +40,14 @@ Instale as dependências:
 ```bash
 pip install mlflow==3.1.1 xgboost optuna scikit-learn matplotlib pandas
 
+Rode o servidor local do MLflow (opcional, para visualizar via browser):
+```bash
+mlflow server --host 127.0.0.1 --port 8282
+
+## 📁 Estrutura de pastas
+📦 mlflow-xgboost-demo
+├── main.py / notebook.ipynb
+├── README.md
+└── mlruns/                ← Diretório criado automaticamente pelo MLflow
+
+
