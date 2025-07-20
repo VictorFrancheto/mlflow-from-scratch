@@ -64,3 +64,13 @@ To start the MLflow tracking server locally, follow the steps based on your envi
 
 ✅ Make sure you're using the same Python environment or kernel as the one used in your notebook or training script.
 
+---
+
+### 📦 **Project Structure**
+
+mlflow-xgboost
+├── notebook.ipynb
+├── README.md
+└── mlruns/                ← Directory automatically created by MLflow
+
+
