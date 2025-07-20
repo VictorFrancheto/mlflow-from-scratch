@@ -21,11 +21,11 @@ This repository demonstrates how to use **MLflow 3.1.1** to track the entire lif
 
 MLflow allows you to:
 
-✅ Automatically track metrics, parameters, and artifacts from experiments
-✅ Easily compare runs through a clean web interface
-✅ Save and version trained models, ensuring reproducibility
-✅ Load saved models effortlessly without manual disk handling
-✅ Integrate with multiple frameworks like `xgboost`, `sklearn`, `pytorch`, and more
+✅ Automatically track metrics, parameters, and artifacts from experiments;\
+✅ Easily compare runs through a clean web interface;\
+✅ Save and version trained models, ensuring reproducibility;\
+✅ Load saved models effortlessly without manual disk handling;\
+✅ Integrate with multiple frameworks like `xgboost`, `sklearn`, `pytorch`, and more.
 
 ## 📦 Requisitos
 
@@ -50,4 +50,17 @@ To start the MLflow tracking server locally, follow the steps based on your envi
    cd your-project-path
    
 3. Run the MLflow server:
+
+   ```bash
+   python -m mlflow server --host 127.0.0.1 --port 8282
+  
+### 💻 **Using VS Code**
+
+1. Open the terminal in VS Code;
+2. Run the command below:
+
+   ```bash
+   py -m mlflow server --host 127.0.0.1 --port 8282
+
+✅ Make sure you're using the same Python environment or kernel as the one used in your notebook or training script.
 
