@@ -68,9 +68,9 @@ To start the MLflow tracking server locally, follow the steps based on your envi
 
 ### 📦 **Project Structure**
 
-mlflow-xgboost
-├── notebook.ipynb
-├── README.md
+mlflow-xgboost\
+├── notebook.ipynb\
+├── README.md\
 └── mlruns/                ← Directory automatically created by MLflow
 
 
