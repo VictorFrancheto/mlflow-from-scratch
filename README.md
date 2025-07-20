@@ -3,27 +3,29 @@
 <p align="center">
   <img src="https://github.com/VictorFrancheto/mlflow-from-scratch/blob/main/image.jpg">
 </p>
-# 📊 Experimento com MLflow 3.1.1 — Treinamento, Registro e Carregamento de Modelo
 
-Este repositório demonstra como utilizar o **MLflow 3.1.1** para acompanhar todo o ciclo de vida de um experimento de machine learning, desde o treinamento até o carregamento do modelo final.
+# 📊 Experiment with MLflow 3.1.1 — Training, Logging, and Model Loading
 
-## 🚀 O que será feito
+This repository demonstrates how to use **MLflow 3.1.1** to track the entire lifecycle of a machine learning experiment — from training to loading the final model.
 
-- Treinamento de um modelo de machine learning (usando `XGBoost`);
-- Otimização de hiperparâmetros com **Optuna**;
-- Registro dos hiperparâmetros, métricas e gráficos no **MLflow**;
-- Salvamento do **melhor modelo treinado** no MLflow;
-- Carregamento do modelo posteriormente usando sua URI.
+## 🚀 What Will Be Done
 
-## 🧠 Por que usar MLflow?
+* Train a machine learning model using `XGBoost`;
+* Perform hyperparameter optimization with **Optuna**;
+* Log hyperparameters, metrics, and visualizations to **MLflow**;
+* Save the **best trained model** to MLflow;
+* Load the model later using its URI.
 
-O MLflow permite:
 
-✅ Rastrear automaticamente métricas, parâmetros e artefatos dos experimentos  
-✅ Comparar execuções de forma organizada via interface web  
-✅ Salvar e versionar modelos treinados, evitando perda de reprodutibilidade  
-✅ Carregar modelos salvos facilmente, sem necessidade de salvar manualmente em disco  
-✅ Integrar com múltiplos frameworks como `xgboost`, `sklearn`, `pytorch`, entre outros
+## 🧠 Why Use MLflow?
+
+MLflow allows you to:
+
+✅ Automatically track metrics, parameters, and artifacts from experiments
+✅ Easily compare runs through a clean web interface
+✅ Save and version trained models, ensuring reproducibility
+✅ Load saved models effortlessly without manual disk handling
+✅ Integrate with multiple frameworks like `xgboost`, `sklearn`, `pytorch`, and more
 
 ## 📦 Requisitos
 
@@ -33,21 +35,19 @@ O MLflow permite:
 - Optuna
 - Matplotlib / Pandas / Scikit-learn
 
-## ▶️ Como executar
+## 🚀 Initializing the MLflow Server
 
-Instale as dependências:
+To start the MLflow tracking server locally, follow the steps based on your environment:
 
-```bash
-pip install mlflow==3.1.1 xgboost optuna scikit-learn matplotlib pandas
+---
 
-Rode o servidor local do MLflow (opcional, para visualizar via browser):
-```bash
-mlflow server --host 127.0.0.1 --port 8282
+### 🐍 **Using Anaconda**
 
-## 📁 Estrutura de pastas
-📦 mlflow-xgboost-demo
-├── main.py / notebook.ipynb
-├── README.md
-└── mlruns/                ← Diretório criado automaticamente pelo MLflow
+1. Open the **Anaconda Command Prompt**  
+2. Navigate to your project directory:
 
+   ```bash
+   cd your-project-path
+   
+3. Run the MLflow server:
 
