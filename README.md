@@ -66,11 +66,19 @@ To start the MLflow tracking server locally, follow the steps based on your envi
 
 ---
 
-### 📦 **Project Structure**
+### 📦 Project Structure
 
-mlflow-xgboost\
-├── notebook.ipynb\
-├── README.md\
-└── mlruns/                ← Directory automatically created by MLflow
+```
+project-flow/
+├── .ipynb_checkpoints/                      ← Auto-generated folder by Jupyter
+├── mlartifacts/                             ← Folder where MLflow stores artifacts (locally)
+├── mlruns/                                  ← MLflow tracking directory (for runs metadata)
+├── README.md                                ← Project description and instructions
+├── Wholesale customers data.csv             ← Dataset used for training or analysis
+├── image.jpg                                ← Supporting image (uploaded manually)
+└── mlops-project.ipynb                      ← Main notebook with full ML pipeline
+```
+
+
 
 
