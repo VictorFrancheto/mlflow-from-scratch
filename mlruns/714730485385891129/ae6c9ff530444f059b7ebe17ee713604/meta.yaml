@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/ae6c9ff530444f059b7ebe17ee713604/artifacts
+end_time: 1753105247995
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: ae6c9ff530444f059b7ebe17ee713604
+run_name: unleashed-sloth-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105246660
+status: 3
+tags: []
+user_id: victor.francheto

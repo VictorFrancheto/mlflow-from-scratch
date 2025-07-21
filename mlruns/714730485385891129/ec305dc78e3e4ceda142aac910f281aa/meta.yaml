@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/ec305dc78e3e4ceda142aac910f281aa/artifacts
+end_time: 1753105197050
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: ec305dc78e3e4ceda142aac910f281aa
+run_name: illustrious-pig-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105196606
+status: 3
+tags: []
+user_id: victor.francheto

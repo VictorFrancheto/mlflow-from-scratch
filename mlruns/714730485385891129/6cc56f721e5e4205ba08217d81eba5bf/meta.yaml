@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/6cc56f721e5e4205ba08217d81eba5bf/artifacts
+end_time: 1753105259355
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 6cc56f721e5e4205ba08217d81eba5bf
+run_name: delightful-crow-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105258822
+status: 3
+tags: []
+user_id: victor.francheto

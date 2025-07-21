@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/aca38bade212434790c3e6c19be09db7/artifacts
+end_time: 1753105142911
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: aca38bade212434790c3e6c19be09db7
+run_name: sedate-mule-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105142312
+status: 3
+tags: []
+user_id: victor.francheto

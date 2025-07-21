@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/56797805c26f4a06a782e5679d978a58/artifacts
+end_time: 1753105214764
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 56797805c26f4a06a782e5679d978a58
+run_name: blushing-yak-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105214200
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/f46872268a0f476fa4e021e956a02099/artifacts
+end_time: 1753105189996
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: f46872268a0f476fa4e021e956a02099
+run_name: big-mink-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105189237
+status: 3
+tags: []
+user_id: victor.francheto

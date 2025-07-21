@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/979e48b254a1415988e58d26e89690d1/artifacts
+end_time: 1753105233567
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 979e48b254a1415988e58d26e89690d1
+run_name: upbeat-shad-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105232940
+status: 3
+tags: []
+user_id: victor.francheto

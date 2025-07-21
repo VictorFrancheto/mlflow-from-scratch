@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/b00c277af8ee4a7392d809255d30048e/artifacts
+end_time: 1753105123104
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: b00c277af8ee4a7392d809255d30048e
+run_name: indecisive-hawk-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105122641
+status: 3
+tags: []
+user_id: victor.francheto

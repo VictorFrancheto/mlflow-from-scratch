@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/c1ba7c3860ec4efaa590edc4dd9fc3b0/artifacts
+end_time: 1753105174809
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: c1ba7c3860ec4efaa590edc4dd9fc3b0
+run_name: orderly-steed-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105173918
+status: 3
+tags: []
+user_id: victor.francheto

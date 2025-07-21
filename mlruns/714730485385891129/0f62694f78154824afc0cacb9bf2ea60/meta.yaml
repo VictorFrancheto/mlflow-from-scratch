@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/0f62694f78154824afc0cacb9bf2ea60/artifacts
+end_time: 1753105168424
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 0f62694f78154824afc0cacb9bf2ea60
+run_name: lyrical-turtle-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105167849
+status: 3
+tags: []
+user_id: victor.francheto

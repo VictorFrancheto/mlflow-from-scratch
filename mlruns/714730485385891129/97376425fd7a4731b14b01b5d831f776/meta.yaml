@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/97376425fd7a4731b14b01b5d831f776/artifacts
+end_time: 1753105190793
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 97376425fd7a4731b14b01b5d831f776
+run_name: enchanting-moth-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105190214
+status: 3
+tags: []
+user_id: victor.francheto

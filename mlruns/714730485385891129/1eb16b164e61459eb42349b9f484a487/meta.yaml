@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/1eb16b164e61459eb42349b9f484a487/artifacts
+end_time: 1753105143728
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 1eb16b164e61459eb42349b9f484a487
+run_name: wistful-croc-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105143126
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/03712497ed5b4739b16a4090c9772380/artifacts
+end_time: 1753105198462
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 03712497ed5b4739b16a4090c9772380
+run_name: carefree-fish-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105197958
+status: 3
+tags: []
+user_id: victor.francheto

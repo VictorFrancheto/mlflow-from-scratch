@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/72bf1f19c4fb42c8972b7235c5073e25/artifacts
+end_time: 1753105113417
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 72bf1f19c4fb42c8972b7235c5073e25
+run_name: honorable-shrike-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105112852
+status: 3
+tags: []
+user_id: victor.francheto

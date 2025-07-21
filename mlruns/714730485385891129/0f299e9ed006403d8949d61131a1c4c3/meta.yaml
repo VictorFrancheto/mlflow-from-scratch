@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/0f299e9ed006403d8949d61131a1c4c3/artifacts
+end_time: 1753105163089
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 0f299e9ed006403d8949d61131a1c4c3
+run_name: charming-gnu-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105162598
+status: 3
+tags: []
+user_id: victor.francheto

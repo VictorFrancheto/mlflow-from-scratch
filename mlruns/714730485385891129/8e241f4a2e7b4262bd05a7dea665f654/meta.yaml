@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/8e241f4a2e7b4262bd05a7dea665f654/artifacts
+end_time: 1753105093400
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 8e241f4a2e7b4262bd05a7dea665f654
+run_name: trusting-perch-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105092622
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/c55d60dc330b442785b22955dc96d594/artifacts
+end_time: 1753105266131
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: c55d60dc330b442785b22955dc96d594
+run_name: zealous-ape-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105265515
+status: 3
+tags: []
+user_id: victor.francheto

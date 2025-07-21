@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/9480b9500c804f25bb105546ec7a6f3f/artifacts
+end_time: 1753105196432
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 9480b9500c804f25bb105546ec7a6f3f
+run_name: adaptable-ape-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105195819
+status: 3
+tags: []
+user_id: victor.francheto

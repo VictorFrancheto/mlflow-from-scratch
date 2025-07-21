@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/ac1f2a609532463c9c216828f5ccbe5b/artifacts
+end_time: 1753105167586
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: ac1f2a609532463c9c216828f5ccbe5b
+run_name: carefree-bear-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105166522
+status: 3
+tags: []
+user_id: victor.francheto

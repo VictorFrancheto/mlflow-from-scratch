@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/1f189ed57832443d8a08091bc5afcd4e/artifacts
+end_time: 1753105246427
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 1f189ed57832443d8a08091bc5afcd4e
+run_name: nimble-kit-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105245830
+status: 3
+tags: []
+user_id: victor.francheto

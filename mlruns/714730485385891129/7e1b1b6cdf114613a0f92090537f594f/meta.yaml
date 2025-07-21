@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/7e1b1b6cdf114613a0f92090537f594f/artifacts
+end_time: 1753105121801
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 7e1b1b6cdf114613a0f92090537f594f
+run_name: peaceful-fawn-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105121179
+status: 3
+tags: []
+user_id: victor.francheto

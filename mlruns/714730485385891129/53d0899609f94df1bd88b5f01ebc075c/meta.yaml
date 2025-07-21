@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/53d0899609f94df1bd88b5f01ebc075c/artifacts
+end_time: 1753105182583
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 53d0899609f94df1bd88b5f01ebc075c
+run_name: useful-bear-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105181730
+status: 3
+tags: []
+user_id: victor.francheto

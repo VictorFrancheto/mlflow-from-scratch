@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/bb8a68f5947e4269b0064950c600b322/artifacts
+end_time: 1753105138278
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: bb8a68f5947e4269b0064950c600b322
+run_name: skillful-carp-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105137212
+status: 3
+tags: []
+user_id: victor.francheto

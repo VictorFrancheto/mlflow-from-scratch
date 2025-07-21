@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/547b062ee7a04403a1721379e058d452/artifacts
+end_time: 1753105117470
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 547b062ee7a04403a1721379e058d452
+run_name: upset-squirrel-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105114712
+status: 3
+tags: []
+user_id: victor.francheto

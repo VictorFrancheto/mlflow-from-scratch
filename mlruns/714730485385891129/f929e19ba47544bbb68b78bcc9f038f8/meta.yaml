@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/f929e19ba47544bbb68b78bcc9f038f8/artifacts
+end_time: 1753105253640
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: f929e19ba47544bbb68b78bcc9f038f8
+run_name: smiling-sponge-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105252981
+status: 3
+tags: []
+user_id: victor.francheto

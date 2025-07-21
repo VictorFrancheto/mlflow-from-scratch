@@ -1,0 +1,24 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Region",
+      "Fresh",
+      "Milk",
+      "Grocery",
+      "Frozen",
+      "Detergents_Paper",
+      "Delicassen"
+    ],
+    "data": [
+      [
+        1,
+        5396,
+        7503,
+        10646,
+        91,
+        4167,
+        239
+      ]
+    ]
+  }
+}

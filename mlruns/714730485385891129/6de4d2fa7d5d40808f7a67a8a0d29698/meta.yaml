@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/6de4d2fa7d5d40808f7a67a8a0d29698/artifacts
+end_time: 1753105223780
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 6de4d2fa7d5d40808f7a67a8a0d29698
+run_name: worried-skink-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105223220
+status: 3
+tags: []
+user_id: victor.francheto

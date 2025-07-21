@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/03a0609375a84d3a86f36ed8750adb1b/artifacts
+end_time: 1753105192319
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 03a0609375a84d3a86f36ed8750adb1b
+run_name: unleashed-flea-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105191775
+status: 3
+tags: []
+user_id: victor.francheto

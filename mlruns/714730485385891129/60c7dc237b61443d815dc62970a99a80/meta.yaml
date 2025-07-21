@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/60c7dc237b61443d815dc62970a99a80/artifacts
+end_time: 1753105093960
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 60c7dc237b61443d815dc62970a99a80
+run_name: chill-worm-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105093523
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/a4795cdec0e74b68a5ce9c385e83f3a1/artifacts
+end_time: 1753105179388
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: a4795cdec0e74b68a5ce9c385e83f3a1
+run_name: skittish-fox-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105178774
+status: 3
+tags: []
+user_id: victor.francheto

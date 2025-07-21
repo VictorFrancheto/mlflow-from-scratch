@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/01f6f2f5bb984d15b8c91df07ace06d1/artifacts
+end_time: 1753105177803
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 01f6f2f5bb984d15b8c91df07ace06d1
+run_name: exultant-bee-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105177134
+status: 3
+tags: []
+user_id: victor.francheto

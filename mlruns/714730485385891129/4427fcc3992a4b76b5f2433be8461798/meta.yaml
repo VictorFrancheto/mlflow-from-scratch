@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/4427fcc3992a4b76b5f2433be8461798/artifacts
+end_time: 1753105149338
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 4427fcc3992a4b76b5f2433be8461798
+run_name: placid-tern-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105148809
+status: 3
+tags: []
+user_id: victor.francheto

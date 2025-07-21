@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/c0c9e7ac64f74c7cb57d66d693cb970c/artifacts
+end_time: 1753105265320
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: c0c9e7ac64f74c7cb57d66d693cb970c
+run_name: upbeat-deer-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105264523
+status: 3
+tags: []
+user_id: victor.francheto

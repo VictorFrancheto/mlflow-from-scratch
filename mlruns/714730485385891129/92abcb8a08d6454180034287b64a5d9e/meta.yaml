@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/92abcb8a08d6454180034287b64a5d9e/artifacts
+end_time: 1753105204465
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 92abcb8a08d6454180034287b64a5d9e
+run_name: calm-shrew-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105203866
+status: 3
+tags: []
+user_id: victor.francheto

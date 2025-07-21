@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/0eb0cfc8c86a4225bf6a60eeaec4e2f3/artifacts
+end_time: 1753105210122
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 0eb0cfc8c86a4225bf6a60eeaec4e2f3
+run_name: defiant-eel-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105209519
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/10b1593884ee46e0b7cba1d31bf67f3b/artifacts
+end_time: 1753105107149
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 10b1593884ee46e0b7cba1d31bf67f3b
+run_name: victorious-jay-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105106542
+status: 3
+tags: []
+user_id: victor.francheto

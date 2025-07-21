@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/bfe7ea55fb9c427caf76c3114b867448/artifacts
+end_time: 1753105221541
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: bfe7ea55fb9c427caf76c3114b867448
+run_name: calm-goat-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105220876
+status: 3
+tags: []
+user_id: victor.francheto

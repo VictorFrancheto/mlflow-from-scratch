@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/d3147cdd8dea466d9d83b734833877ed/artifacts
+end_time: 1753105105617
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: d3147cdd8dea466d9d83b734833877ed
+run_name: mercurial-fly-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105105140
+status: 3
+tags: []
+user_id: victor.francheto

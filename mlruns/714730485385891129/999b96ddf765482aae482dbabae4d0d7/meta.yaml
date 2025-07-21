@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/999b96ddf765482aae482dbabae4d0d7/artifacts
+end_time: 1753105119631
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 999b96ddf765482aae482dbabae4d0d7
+run_name: adorable-gnu-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105118839
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/aa9656f3f05a4133a2156e39a985cdea/artifacts
+end_time: 1753105158811
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: aa9656f3f05a4133a2156e39a985cdea
+run_name: thundering-flea-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105158354
+status: 3
+tags: []
+user_id: victor.francheto

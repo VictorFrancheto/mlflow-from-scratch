@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/090baeb594994dfcac73dddd82549fac/artifacts
+end_time: 1753105180568
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 090baeb594994dfcac73dddd82549fac
+run_name: zealous-finch-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105179625
+status: 3
+tags: []
+user_id: victor.francheto

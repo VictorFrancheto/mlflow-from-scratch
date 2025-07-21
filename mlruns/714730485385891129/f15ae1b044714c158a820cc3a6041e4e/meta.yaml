@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/f15ae1b044714c158a820cc3a6041e4e/artifacts
+end_time: 1753105227401
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: f15ae1b044714c158a820cc3a6041e4e
+run_name: honorable-bee-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105226994
+status: 3
+tags: []
+user_id: victor.francheto

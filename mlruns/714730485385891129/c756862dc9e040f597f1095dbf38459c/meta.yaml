@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/c756862dc9e040f597f1095dbf38459c/artifacts
+end_time: 1753105219123
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: c756862dc9e040f597f1095dbf38459c
+run_name: treasured-croc-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105218560
+status: 3
+tags: []
+user_id: victor.francheto

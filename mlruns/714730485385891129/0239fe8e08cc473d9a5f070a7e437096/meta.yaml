@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/714730485385891129/0239fe8e08cc473d9a5f070a7e437096/artifacts
+end_time: 1753105112049
+entry_point_name: ''
+experiment_id: '714730485385891129'
+lifecycle_stage: active
+run_id: 0239fe8e08cc473d9a5f070a7e437096
+run_name: rambunctious-asp-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753105111638
+status: 3
+tags: []
+user_id: victor.francheto
