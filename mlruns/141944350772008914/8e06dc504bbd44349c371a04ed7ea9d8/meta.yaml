@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/8e06dc504bbd44349c371a04ed7ea9d8/artifacts
+end_time: 1753130232672
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 8e06dc504bbd44349c371a04ed7ea9d8
+run_name: magnificent-stag-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130232360
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/52044106b0f248da99fd7bfc20c358ac/artifacts
+end_time: 1753130162415
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 52044106b0f248da99fd7bfc20c358ac
+run_name: whimsical-yak-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130162101
+status: 3
+tags: []
+user_id: victor.francheto

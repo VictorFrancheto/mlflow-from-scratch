@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/eb63b618194a47e58c99e729d49f8fd3/artifacts
+end_time: 1753130191917
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: eb63b618194a47e58c99e729d49f8fd3
+run_name: shivering-bird-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130191570
+status: 3
+tags: []
+user_id: victor.francheto

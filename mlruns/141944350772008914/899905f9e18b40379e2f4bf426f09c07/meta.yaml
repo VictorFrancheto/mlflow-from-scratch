@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/899905f9e18b40379e2f4bf426f09c07/artifacts
+end_time: 1753130231211
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 899905f9e18b40379e2f4bf426f09c07
+run_name: casual-pug-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130230875
+status: 3
+tags: []
+user_id: victor.francheto

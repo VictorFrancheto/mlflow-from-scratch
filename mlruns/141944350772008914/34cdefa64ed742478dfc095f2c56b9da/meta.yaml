@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/34cdefa64ed742478dfc095f2c56b9da/artifacts
+end_time: 1753130253730
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 34cdefa64ed742478dfc095f2c56b9da
+run_name: wise-penguin-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130253422
+status: 3
+tags: []
+user_id: victor.francheto

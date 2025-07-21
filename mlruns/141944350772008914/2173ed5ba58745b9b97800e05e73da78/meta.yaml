@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/2173ed5ba58745b9b97800e05e73da78/artifacts
+end_time: 1753130139856
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 2173ed5ba58745b9b97800e05e73da78
+run_name: selective-stork-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130139556
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/6e8ef18f610e4c4d9fdc7d590b0faf60/artifacts
+end_time: 1753130141879
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 6e8ef18f610e4c4d9fdc7d590b0faf60
+run_name: caring-grouse-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130141564
+status: 3
+tags: []
+user_id: victor.francheto

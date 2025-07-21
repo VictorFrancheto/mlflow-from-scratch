@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/922f178612d24ca995d0711a30b952a5/artifacts
+end_time: 1753130224309
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 922f178612d24ca995d0711a30b952a5
+run_name: luminous-mink-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130223922
+status: 3
+tags: []
+user_id: victor.francheto

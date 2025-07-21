@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/6a35e8ff846947ef9a7af3abc790bff8/artifacts
+end_time: 1753130136437
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 6a35e8ff846947ef9a7af3abc790bff8
+run_name: capricious-deer-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130136136
+status: 3
+tags: []
+user_id: victor.francheto

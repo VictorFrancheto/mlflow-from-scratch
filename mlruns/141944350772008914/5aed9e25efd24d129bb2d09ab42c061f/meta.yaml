@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/5aed9e25efd24d129bb2d09ab42c061f/artifacts
+end_time: 1753130155153
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 5aed9e25efd24d129bb2d09ab42c061f
+run_name: bedecked-pug-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130154874
+status: 3
+tags: []
+user_id: victor.francheto

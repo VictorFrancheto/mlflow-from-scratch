@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/970c25b79e2247f88fd8a68b85dadb43/artifacts
+end_time: 1753130213232
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 970c25b79e2247f88fd8a68b85dadb43
+run_name: angry-cow-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130211473
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/d8b8d705305745a1b2e681053268af5b/artifacts
+end_time: 1753130149957
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: d8b8d705305745a1b2e681053268af5b
+run_name: glamorous-conch-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130149590
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/dc7fb5f7d4824a29be7d12c6f8f44cbc/artifacts
+end_time: 1753130130792
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: dc7fb5f7d4824a29be7d12c6f8f44cbc
+run_name: suave-shrimp-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130130464
+status: 3
+tags: []
+user_id: victor.francheto

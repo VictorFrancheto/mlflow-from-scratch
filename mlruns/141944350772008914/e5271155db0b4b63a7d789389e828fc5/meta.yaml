@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/e5271155db0b4b63a7d789389e828fc5/artifacts
+end_time: 1753130215844
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: e5271155db0b4b63a7d789389e828fc5
+run_name: bedecked-fawn-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130215461
+status: 3
+tags: []
+user_id: victor.francheto

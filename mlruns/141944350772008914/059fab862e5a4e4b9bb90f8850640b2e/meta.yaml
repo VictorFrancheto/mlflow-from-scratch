@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/059fab862e5a4e4b9bb90f8850640b2e/artifacts
+end_time: 1753130232223
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 059fab862e5a4e4b9bb90f8850640b2e
+run_name: unique-shad-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130231830
+status: 3
+tags: []
+user_id: victor.francheto

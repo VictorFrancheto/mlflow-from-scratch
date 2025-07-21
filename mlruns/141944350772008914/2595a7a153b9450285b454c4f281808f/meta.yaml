@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/2595a7a153b9450285b454c4f281808f/artifacts
+end_time: 1753130194318
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 2595a7a153b9450285b454c4f281808f
+run_name: powerful-whale-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130193829
+status: 3
+tags: []
+user_id: victor.francheto

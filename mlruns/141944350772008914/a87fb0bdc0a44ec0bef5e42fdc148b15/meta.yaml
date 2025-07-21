@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/a87fb0bdc0a44ec0bef5e42fdc148b15/artifacts
+end_time: 1753130233650
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: a87fb0bdc0a44ec0bef5e42fdc148b15
+run_name: wise-grub-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130233306
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/94a2a5826a09417cb0ea4426b9b12915/artifacts
+end_time: 1753130237561
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 94a2a5826a09417cb0ea4426b9b12915
+run_name: brawny-bee-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130234878
+status: 3
+tags: []
+user_id: victor.francheto

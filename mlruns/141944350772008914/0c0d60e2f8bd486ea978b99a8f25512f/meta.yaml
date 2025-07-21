@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/0c0d60e2f8bd486ea978b99a8f25512f/artifacts
+end_time: 1753130177708
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 0c0d60e2f8bd486ea978b99a8f25512f
+run_name: auspicious-zebra-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130177321
+status: 3
+tags: []
+user_id: victor.francheto

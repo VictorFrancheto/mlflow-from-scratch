@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/6b653ad41e4d4563a82dfa10f42a3d5d/artifacts
+end_time: 1753130250755
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 6b653ad41e4d4563a82dfa10f42a3d5d
+run_name: peaceful-roo-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130250387
+status: 3
+tags: []
+user_id: victor.francheto

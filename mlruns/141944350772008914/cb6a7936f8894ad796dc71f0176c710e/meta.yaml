@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/cb6a7936f8894ad796dc71f0176c710e/artifacts
+end_time: 1753130248447
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: cb6a7936f8894ad796dc71f0176c710e
+run_name: gaudy-flea-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130246423
+status: 3
+tags: []
+user_id: victor.francheto

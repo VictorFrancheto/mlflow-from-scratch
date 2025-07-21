@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/0deec6eea4ab406da5bb8e43000102a9/artifacts
+end_time: 1753130175064
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 0deec6eea4ab406da5bb8e43000102a9
+run_name: stylish-smelt-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130174632
+status: 3
+tags: []
+user_id: victor.francheto

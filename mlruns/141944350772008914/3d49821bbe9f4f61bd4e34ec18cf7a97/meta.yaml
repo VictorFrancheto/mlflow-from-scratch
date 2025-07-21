@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/3d49821bbe9f4f61bd4e34ec18cf7a97/artifacts
+end_time: 1753130157484
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 3d49821bbe9f4f61bd4e34ec18cf7a97
+run_name: abrasive-moose-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130157174
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/68cc56204d1c40b8a302581ff6ef7ddb/artifacts
+end_time: 1753130185188
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 68cc56204d1c40b8a302581ff6ef7ddb
+run_name: placid-snipe-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130184473
+status: 3
+tags: []
+user_id: victor.francheto

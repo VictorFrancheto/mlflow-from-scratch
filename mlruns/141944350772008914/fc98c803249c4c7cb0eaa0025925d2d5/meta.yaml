@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/fc98c803249c4c7cb0eaa0025925d2d5/artifacts
+end_time: 1753130233157
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: fc98c803249c4c7cb0eaa0025925d2d5
+run_name: salty-yak-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130232786
+status: 3
+tags: []
+user_id: victor.francheto

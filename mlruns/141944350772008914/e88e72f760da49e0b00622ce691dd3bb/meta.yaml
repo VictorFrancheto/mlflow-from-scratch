@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/e88e72f760da49e0b00622ce691dd3bb/artifacts
+end_time: 1753130132398
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: e88e72f760da49e0b00622ce691dd3bb
+run_name: capricious-toad-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130131760
+status: 3
+tags: []
+user_id: victor.francheto

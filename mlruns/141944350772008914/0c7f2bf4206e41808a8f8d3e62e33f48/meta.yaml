@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/0c7f2bf4206e41808a8f8d3e62e33f48/artifacts
+end_time: 1753130134335
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 0c7f2bf4206e41808a8f8d3e62e33f48
+run_name: polite-foal-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130133990
+status: 3
+tags: []
+user_id: victor.francheto

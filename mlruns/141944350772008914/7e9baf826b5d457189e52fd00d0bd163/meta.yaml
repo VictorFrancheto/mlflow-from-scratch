@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/7e9baf826b5d457189e52fd00d0bd163/artifacts
+end_time: 1753130153920
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 7e9baf826b5d457189e52fd00d0bd163
+run_name: fearless-sow-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130153613
+status: 3
+tags: []
+user_id: victor.francheto

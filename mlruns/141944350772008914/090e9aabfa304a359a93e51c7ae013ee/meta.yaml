@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/090e9aabfa304a359a93e51c7ae013ee/artifacts
+end_time: 1753130252038
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 090e9aabfa304a359a93e51c7ae013ee
+run_name: luxuriant-fawn-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130251736
+status: 3
+tags: []
+user_id: victor.francheto

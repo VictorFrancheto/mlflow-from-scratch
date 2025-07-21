@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/f317f299dba847ec9a66891047251768/artifacts
+end_time: 1753130157063
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: f317f299dba847ec9a66891047251768
+run_name: likeable-cow-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130156731
+status: 3
+tags: []
+user_id: victor.francheto

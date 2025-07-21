@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/ea57561d42394f1a848471ee68565d29/artifacts
+end_time: 1753130221119
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: ea57561d42394f1a848471ee68565d29
+run_name: merciful-gnat-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130220597
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/872a9ce6650a47688eb4719a9d917989/artifacts
+end_time: 1753130172994
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 872a9ce6650a47688eb4719a9d917989
+run_name: receptive-sheep-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130172668
+status: 3
+tags: []
+user_id: victor.francheto

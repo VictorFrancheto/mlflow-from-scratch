@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/4a1aa8ec5eed43969e25b92bc8fb26c8/artifacts
+end_time: 1753130168866
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 4a1aa8ec5eed43969e25b92bc8fb26c8
+run_name: welcoming-panda-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130168500
+status: 3
+tags: []
+user_id: victor.francheto

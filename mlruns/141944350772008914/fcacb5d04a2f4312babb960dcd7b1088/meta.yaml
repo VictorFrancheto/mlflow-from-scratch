@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/fcacb5d04a2f4312babb960dcd7b1088/artifacts
+end_time: 1753130189755
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: fcacb5d04a2f4312babb960dcd7b1088
+run_name: spiffy-seal-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130189153
+status: 3
+tags: []
+user_id: victor.francheto

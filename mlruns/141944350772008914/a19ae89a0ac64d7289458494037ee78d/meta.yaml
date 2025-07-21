@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/a19ae89a0ac64d7289458494037ee78d/artifacts
+end_time: 1753130181857
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: a19ae89a0ac64d7289458494037ee78d
+run_name: thundering-wolf-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130180845
+status: 3
+tags: []
+user_id: victor.francheto

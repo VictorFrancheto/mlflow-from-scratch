@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/411f43c2be0d486f9887cfa737ff7166/artifacts
+end_time: 1753130244138
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 411f43c2be0d486f9887cfa737ff7166
+run_name: delightful-jay-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130243657
+status: 3
+tags: []
+user_id: victor.francheto

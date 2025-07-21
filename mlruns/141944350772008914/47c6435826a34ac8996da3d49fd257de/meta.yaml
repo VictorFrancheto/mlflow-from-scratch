@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/47c6435826a34ac8996da3d49fd257de/artifacts
+end_time: 1753130245270
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 47c6435826a34ac8996da3d49fd257de
+run_name: industrious-squid-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130244892
+status: 3
+tags: []
+user_id: victor.francheto

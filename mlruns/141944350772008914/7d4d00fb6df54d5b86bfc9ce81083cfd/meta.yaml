@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/7d4d00fb6df54d5b86bfc9ce81083cfd/artifacts
+end_time: 1753130151616
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 7d4d00fb6df54d5b86bfc9ce81083cfd
+run_name: spiffy-shoat-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130151274
+status: 3
+tags: []
+user_id: victor.francheto

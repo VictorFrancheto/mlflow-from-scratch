@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/0c0541cc9c0445e0b60eda84b536e2ba/artifacts
+end_time: 1753130210462
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 0c0541cc9c0445e0b60eda84b536e2ba
+run_name: kindly-shoat-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130208978
+status: 3
+tags: []
+user_id: victor.francheto

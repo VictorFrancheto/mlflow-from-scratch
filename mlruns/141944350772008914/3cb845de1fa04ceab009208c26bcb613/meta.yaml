@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/3cb845de1fa04ceab009208c26bcb613/artifacts
+end_time: 1753130223793
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 3cb845de1fa04ceab009208c26bcb613
+run_name: bold-hare-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130223385
+status: 3
+tags: []
+user_id: victor.francheto

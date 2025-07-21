@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/d06f11c5ec5d401c96f055108e6e200f/artifacts
+end_time: 1753130198506
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: d06f11c5ec5d401c96f055108e6e200f
+run_name: tasteful-yak-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130198152
+status: 3
+tags: []
+user_id: victor.francheto

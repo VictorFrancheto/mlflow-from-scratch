@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141944350772008914/29bb52fbd50847a8959231088a6d07bc/artifacts
+end_time: 1753130171542
+entry_point_name: ''
+experiment_id: '141944350772008914'
+lifecycle_stage: active
+run_id: 29bb52fbd50847a8959231088a6d07bc
+run_name: silent-mouse-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130171213
+status: 3
+tags: []
+user_id: victor.francheto
