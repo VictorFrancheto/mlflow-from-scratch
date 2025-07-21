@@ -75,7 +75,6 @@ project-flow/
 ├── mlruns/                                  ← MLflow tracking directory (for runs metadata)
 ├── README.md                                ← Project description and instructions
 ├── Wholesale customers data.csv             ← Dataset used for training or analysis
-├── image.jpg                                ← Supporting image (uploaded manually)
 └── mlops-project.ipynb                      ← Main notebook with full ML pipeline
 ```
 
