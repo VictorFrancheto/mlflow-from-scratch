@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/b8ba1cd85dd84121b79268236dd1d530/artifacts
+end_time: 1753119125701
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: b8ba1cd85dd84121b79268236dd1d530
+run_name: merciful-penguin-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119125354
+status: 3
+tags: []
+user_id: victor.francheto

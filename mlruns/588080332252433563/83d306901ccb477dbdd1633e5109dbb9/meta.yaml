@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/83d306901ccb477dbdd1633e5109dbb9/artifacts
+end_time: 1753119165694
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 83d306901ccb477dbdd1633e5109dbb9
+run_name: valuable-quail-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119165140
+status: 3
+tags: []
+user_id: victor.francheto

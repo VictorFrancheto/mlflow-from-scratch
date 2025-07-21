@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/0a49a43c26384b93aa8bac9e9843c32b/artifacts
+end_time: 1753119068795
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 0a49a43c26384b93aa8bac9e9843c32b
+run_name: efficient-donkey-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119068429
+status: 3
+tags: []
+user_id: victor.francheto

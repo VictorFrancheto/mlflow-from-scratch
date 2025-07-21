@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/6ac17482620646acb3e6c5b8135f9253/artifacts
+end_time: 1753119154929
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 6ac17482620646acb3e6c5b8135f9253
+run_name: sedate-duck-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119154561
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/c089b452e73e4343b45c69cb3451606f/artifacts
+end_time: 1753119073460
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: c089b452e73e4343b45c69cb3451606f
+run_name: agreeable-koi-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119072826
+status: 3
+tags: []
+user_id: victor.francheto

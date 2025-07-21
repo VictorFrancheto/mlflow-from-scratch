@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/a94247194b9a4c76b61fa1d0254768c5/artifacts
+end_time: 1753119057312
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: a94247194b9a4c76b61fa1d0254768c5
+run_name: vaunted-ray-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119056965
+status: 3
+tags: []
+user_id: victor.francheto

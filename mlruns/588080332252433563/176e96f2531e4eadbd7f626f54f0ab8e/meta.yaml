@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/176e96f2531e4eadbd7f626f54f0ab8e/artifacts
+end_time: 1753119038929
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 176e96f2531e4eadbd7f626f54f0ab8e
+run_name: entertaining-yak-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119038494
+status: 3
+tags: []
+user_id: victor.francheto

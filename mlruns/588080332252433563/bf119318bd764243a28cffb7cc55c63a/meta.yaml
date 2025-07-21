@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/bf119318bd764243a28cffb7cc55c63a/artifacts
+end_time: 1753119120297
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: bf119318bd764243a28cffb7cc55c63a
+run_name: charming-bass-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119119718
+status: 3
+tags: []
+user_id: victor.francheto

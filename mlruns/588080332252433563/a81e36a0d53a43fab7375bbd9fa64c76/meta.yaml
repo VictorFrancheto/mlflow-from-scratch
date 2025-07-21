@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/a81e36a0d53a43fab7375bbd9fa64c76/artifacts
+end_time: 1753119100845
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: a81e36a0d53a43fab7375bbd9fa64c76
+run_name: unleashed-yak-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119100456
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/571762642c3140da825c1b51c48db339/artifacts
+end_time: 1753119134048
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 571762642c3140da825c1b51c48db339
+run_name: tasteful-mink-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119133674
+status: 3
+tags: []
+user_id: victor.francheto

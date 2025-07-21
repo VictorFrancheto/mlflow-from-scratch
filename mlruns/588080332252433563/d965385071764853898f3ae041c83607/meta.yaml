@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/d965385071764853898f3ae041c83607/artifacts
+end_time: 1753119043041
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: d965385071764853898f3ae041c83607
+run_name: gregarious-loon-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119042629
+status: 3
+tags: []
+user_id: victor.francheto

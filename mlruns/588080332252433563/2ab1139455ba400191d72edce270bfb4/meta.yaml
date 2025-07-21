@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/2ab1139455ba400191d72edce270bfb4/artifacts
+end_time: 1753119142168
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 2ab1139455ba400191d72edce270bfb4
+run_name: enthused-asp-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119141687
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/db5a26a81ee849b8afa598992b355fa4/artifacts
+end_time: 1753119094563
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: db5a26a81ee849b8afa598992b355fa4
+run_name: wistful-hound-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119094217
+status: 3
+tags: []
+user_id: victor.francheto

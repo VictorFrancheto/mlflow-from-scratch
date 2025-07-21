@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/6ef88fb19b4740d8b5db834b3677cf10/artifacts
+end_time: 1753119088921
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 6ef88fb19b4740d8b5db834b3677cf10
+run_name: nervous-bug-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119088528
+status: 3
+tags: []
+user_id: victor.francheto

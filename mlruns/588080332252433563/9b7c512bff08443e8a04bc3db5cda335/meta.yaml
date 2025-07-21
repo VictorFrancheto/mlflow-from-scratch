@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/9b7c512bff08443e8a04bc3db5cda335/artifacts
+end_time: 1753119088411
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 9b7c512bff08443e8a04bc3db5cda335
+run_name: monumental-vole-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119086300
+status: 3
+tags: []
+user_id: victor.francheto

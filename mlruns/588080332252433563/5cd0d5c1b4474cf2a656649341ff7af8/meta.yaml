@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/5cd0d5c1b4474cf2a656649341ff7af8/artifacts
+end_time: 1753119078017
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 5cd0d5c1b4474cf2a656649341ff7af8
+run_name: salty-toad-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119077577
+status: 3
+tags: []
+user_id: victor.francheto

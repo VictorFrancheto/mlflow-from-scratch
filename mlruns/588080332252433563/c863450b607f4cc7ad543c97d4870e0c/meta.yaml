@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/c863450b607f4cc7ad543c97d4870e0c/artifacts
+end_time: 1753119077393
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: c863450b607f4cc7ad543c97d4870e0c
+run_name: secretive-seal-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119076982
+status: 3
+tags: []
+user_id: victor.francheto

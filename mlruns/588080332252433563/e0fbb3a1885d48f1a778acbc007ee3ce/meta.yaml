@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/e0fbb3a1885d48f1a778acbc007ee3ce/artifacts
+end_time: 1753119136664
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: e0fbb3a1885d48f1a778acbc007ee3ce
+run_name: clumsy-roo-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119136292
+status: 3
+tags: []
+user_id: victor.francheto

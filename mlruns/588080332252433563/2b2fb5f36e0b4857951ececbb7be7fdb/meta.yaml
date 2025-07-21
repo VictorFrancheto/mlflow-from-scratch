@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/2b2fb5f36e0b4857951ececbb7be7fdb/artifacts
+end_time: 1753119053160
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 2b2fb5f36e0b4857951ececbb7be7fdb
+run_name: welcoming-hog-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119052675
+status: 3
+tags: []
+user_id: victor.francheto

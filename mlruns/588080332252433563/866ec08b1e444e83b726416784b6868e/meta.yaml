@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/866ec08b1e444e83b726416784b6868e/artifacts
+end_time: 1753119071912
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 866ec08b1e444e83b726416784b6868e
+run_name: useful-yak-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119070592
+status: 3
+tags: []
+user_id: victor.francheto

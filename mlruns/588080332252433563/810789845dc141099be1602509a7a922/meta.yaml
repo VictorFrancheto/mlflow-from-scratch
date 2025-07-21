@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/810789845dc141099be1602509a7a922/artifacts
+end_time: 1753119050300
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 810789845dc141099be1602509a7a922
+run_name: silent-bird-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119049917
+status: 3
+tags: []
+user_id: victor.francheto

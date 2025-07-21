@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/da2ea068a2e04f69bc6aef7aac5e4e75/artifacts
+end_time: 1753119164558
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: da2ea068a2e04f69bc6aef7aac5e4e75
+run_name: gifted-fowl-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119164208
+status: 3
+tags: []
+user_id: victor.francheto

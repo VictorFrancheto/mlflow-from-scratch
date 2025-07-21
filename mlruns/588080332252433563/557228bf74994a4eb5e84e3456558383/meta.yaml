@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/557228bf74994a4eb5e84e3456558383/artifacts
+end_time: 1753119101932
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 557228bf74994a4eb5e84e3456558383
+run_name: colorful-hound-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119101567
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/93889dcc25ba45f8b80cc90e7bb0cdf3/artifacts
+end_time: 1753119131411
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 93889dcc25ba45f8b80cc90e7bb0cdf3
+run_name: bedecked-worm-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119130862
+status: 3
+tags: []
+user_id: victor.francheto

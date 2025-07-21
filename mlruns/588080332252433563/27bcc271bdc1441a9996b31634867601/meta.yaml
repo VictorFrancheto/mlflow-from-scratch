@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/27bcc271bdc1441a9996b31634867601/artifacts
+end_time: 1753119066665
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 27bcc271bdc1441a9996b31634867601
+run_name: traveling-trout-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119066311
+status: 3
+tags: []
+user_id: victor.francheto

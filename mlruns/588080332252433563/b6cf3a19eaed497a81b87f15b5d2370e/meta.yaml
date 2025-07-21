@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/b6cf3a19eaed497a81b87f15b5d2370e/artifacts
+end_time: 1753119074826
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: b6cf3a19eaed497a81b87f15b5d2370e
+run_name: overjoyed-tern-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119073660
+status: 3
+tags: []
+user_id: victor.francheto

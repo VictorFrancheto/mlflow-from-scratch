@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/a55bb6ec857f4681bc53f374cf9424c9/artifacts
+end_time: 1753119097583
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: a55bb6ec857f4681bc53f374cf9424c9
+run_name: adorable-wasp-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119097185
+status: 3
+tags: []
+user_id: victor.francheto

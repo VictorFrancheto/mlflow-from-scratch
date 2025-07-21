@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/8ca12ca3bb53441fb9a4ce09b97db69c/artifacts
+end_time: 1753119061990
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 8ca12ca3bb53441fb9a4ce09b97db69c
+run_name: industrious-vole-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119061642
+status: 3
+tags: []
+user_id: victor.francheto

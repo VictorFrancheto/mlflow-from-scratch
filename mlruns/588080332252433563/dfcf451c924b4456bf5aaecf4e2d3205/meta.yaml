@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/dfcf451c924b4456bf5aaecf4e2d3205/artifacts
+end_time: 1753119108538
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: dfcf451c924b4456bf5aaecf4e2d3205
+run_name: indecisive-sheep-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119108180
+status: 3
+tags: []
+user_id: victor.francheto

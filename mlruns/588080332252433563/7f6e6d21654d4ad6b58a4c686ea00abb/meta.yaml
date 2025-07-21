@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/7f6e6d21654d4ad6b58a4c686ea00abb/artifacts
+end_time: 1753119156839
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 7f6e6d21654d4ad6b58a4c686ea00abb
+run_name: painted-panda-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119156472
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/d536baa1281a4862836ee33984965328/artifacts
+end_time: 1753119079359
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: d536baa1281a4862836ee33984965328
+run_name: traveling-ox-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119078737
+status: 3
+tags: []
+user_id: victor.francheto

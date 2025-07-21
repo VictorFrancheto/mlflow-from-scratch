@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/ba78fa88de1a4c4a99f6a92e81ea5a4a/artifacts
+end_time: 1753119064448
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: ba78fa88de1a4c4a99f6a92e81ea5a4a
+run_name: dapper-rat-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119064109
+status: 3
+tags: []
+user_id: victor.francheto

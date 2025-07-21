@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/9ce3dcc869604aacb8a72fd3cec1d617/artifacts
+end_time: 1753119084871
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 9ce3dcc869604aacb8a72fd3cec1d617
+run_name: peaceful-skunk-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119084452
+status: 3
+tags: []
+user_id: victor.francheto

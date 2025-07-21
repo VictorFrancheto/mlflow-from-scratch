@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/680d83c582534c188681d311a42bda03/artifacts
+end_time: 1753119146777
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 680d83c582534c188681d311a42bda03
+run_name: honorable-snail-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119146425
+status: 3
+tags: []
+user_id: victor.francheto

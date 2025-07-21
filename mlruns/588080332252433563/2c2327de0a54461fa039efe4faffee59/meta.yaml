@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/2c2327de0a54461fa039efe4faffee59/artifacts
+end_time: 1753119111688
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 2c2327de0a54461fa039efe4faffee59
+run_name: adorable-shrike-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119111317
+status: 3
+tags: []
+user_id: victor.francheto

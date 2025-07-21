@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/164eb74a60c84378b8d8de3b7d557021/artifacts
+end_time: 1753119062876
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 164eb74a60c84378b8d8de3b7d557021
+run_name: resilient-moth-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119062557
+status: 3
+tags: []
+user_id: victor.francheto

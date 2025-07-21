@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/ae37f4696259419c87a35e62ba6e9999/artifacts
+end_time: 1753119093079
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: ae37f4696259419c87a35e62ba6e9999
+run_name: honorable-foal-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119092640
+status: 3
+tags: []
+user_id: victor.francheto

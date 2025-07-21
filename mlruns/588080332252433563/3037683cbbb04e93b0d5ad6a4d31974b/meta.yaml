@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/3037683cbbb04e93b0d5ad6a4d31974b/artifacts
+end_time: 1753119133527
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 3037683cbbb04e93b0d5ad6a4d31974b
+run_name: powerful-hare-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119133142
+status: 3
+tags: []
+user_id: victor.francheto

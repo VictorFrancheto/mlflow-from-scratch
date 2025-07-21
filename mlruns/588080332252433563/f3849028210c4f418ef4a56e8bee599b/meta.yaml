@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/f3849028210c4f418ef4a56e8bee599b/artifacts
+end_time: 1753119041955
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: f3849028210c4f418ef4a56e8bee599b
+run_name: crawling-mouse-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119041620
+status: 3
+tags: []
+user_id: victor.francheto

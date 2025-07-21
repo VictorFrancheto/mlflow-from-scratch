@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/38d9a7f987fd46878059bc1c08c89625/artifacts
+end_time: 1753119153937
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 38d9a7f987fd46878059bc1c08c89625
+run_name: valuable-chimp-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119153567
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/b38102498cec4da09619610ef956b114/artifacts
+end_time: 1753119153439
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: b38102498cec4da09619610ef956b114
+run_name: auspicious-wolf-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119153099
+status: 3
+tags: []
+user_id: victor.francheto

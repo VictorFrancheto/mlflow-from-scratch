@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/c82971fa394841f0bd960ed3a44db564/artifacts
+end_time: 1753119083211
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: c82971fa394841f0bd960ed3a44db564
+run_name: enthused-tern-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119082871
+status: 3
+tags: []
+user_id: victor.francheto

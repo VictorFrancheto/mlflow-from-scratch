@@ -27,11 +27,11 @@ MLflow allows you to:
 ✅ Load saved models effortlessly without manual disk handling;\
 ✅ Integrate with multiple frameworks like `xgboost`, `sklearn`, `pytorch`, and more.
 
-## 📦 Requisitos
+## 📦 Requirements
 
-- Python 3.8+
+- Python 2.1.4
 - MLflow 3.1.1
-- XGBoost
+- XGBoost 2.1.4
 - Optuna
 - Matplotlib / Pandas / Scikit-learn
 

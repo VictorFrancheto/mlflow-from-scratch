@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/e9c4cab24bcb4d8a84cf9d1f4b1cdb43/artifacts
+end_time: 1753119063919
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: e9c4cab24bcb4d8a84cf9d1f4b1cdb43
+run_name: glamorous-dog-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119063523
+status: 3
+tags: []
+user_id: victor.francheto

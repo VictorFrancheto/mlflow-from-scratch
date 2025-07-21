@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/f8fadbf0d09144d7be36d0677a0eec33/artifacts
+end_time: 1753119159010
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: f8fadbf0d09144d7be36d0677a0eec33
+run_name: smiling-dog-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119158639
+status: 3
+tags: []
+user_id: victor.francheto

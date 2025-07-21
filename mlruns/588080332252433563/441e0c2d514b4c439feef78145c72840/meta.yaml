@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/441e0c2d514b4c439feef78145c72840/artifacts
+end_time: 1753119138874
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 441e0c2d514b4c439feef78145c72840
+run_name: glamorous-pug-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119138345
+status: 3
+tags: []
+user_id: victor.francheto

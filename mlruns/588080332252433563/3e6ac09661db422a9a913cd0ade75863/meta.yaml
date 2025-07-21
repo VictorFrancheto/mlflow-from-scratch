@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/3e6ac09661db422a9a913cd0ade75863/artifacts
+end_time: 1753119068255
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 3e6ac09661db422a9a913cd0ade75863
+run_name: auspicious-calf-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119067945
+status: 3
+tags: []
+user_id: victor.francheto

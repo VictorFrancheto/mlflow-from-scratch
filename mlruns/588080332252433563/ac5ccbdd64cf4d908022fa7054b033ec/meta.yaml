@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/ac5ccbdd64cf4d908022fa7054b033ec/artifacts
+end_time: 1753119048928
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: ac5ccbdd64cf4d908022fa7054b033ec
+run_name: aged-hawk-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119043924
+status: 3
+tags: []
+user_id: victor.francheto

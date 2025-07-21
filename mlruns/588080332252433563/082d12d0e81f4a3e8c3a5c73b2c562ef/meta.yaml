@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/082d12d0e81f4a3e8c3a5c73b2c562ef/artifacts
+end_time: 1753119041539
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 082d12d0e81f4a3e8c3a5c73b2c562ef
+run_name: rumbling-rat-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119041195
+status: 3
+tags: []
+user_id: victor.francheto

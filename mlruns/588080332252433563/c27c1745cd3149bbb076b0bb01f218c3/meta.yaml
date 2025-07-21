@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/c27c1745cd3149bbb076b0bb01f218c3/artifacts
+end_time: 1753119075565
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: c27c1745cd3149bbb076b0bb01f218c3
+run_name: angry-snipe-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119075113
+status: 3
+tags: []
+user_id: victor.francheto

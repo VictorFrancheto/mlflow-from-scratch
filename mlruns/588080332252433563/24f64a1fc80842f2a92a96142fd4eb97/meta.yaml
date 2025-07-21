@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/24f64a1fc80842f2a92a96142fd4eb97/artifacts
+end_time: 1753119121607
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: 24f64a1fc80842f2a92a96142fd4eb97
+run_name: charming-duck-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119121006
+status: 3
+tags: []
+user_id: victor.francheto

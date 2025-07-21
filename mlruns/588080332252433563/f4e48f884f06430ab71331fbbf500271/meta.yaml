@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/588080332252433563/f4e48f884f06430ab71331fbbf500271/artifacts
+end_time: 1753119106324
+entry_point_name: ''
+experiment_id: '588080332252433563'
+lifecycle_stage: active
+run_id: f4e48f884f06430ab71331fbbf500271
+run_name: gregarious-boar-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753119105975
+status: 3
+tags: []
+user_id: victor.francheto
