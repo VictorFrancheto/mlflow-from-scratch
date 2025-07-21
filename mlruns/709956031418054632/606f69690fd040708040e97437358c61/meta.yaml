@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/606f69690fd040708040e97437358c61/artifacts
+end_time: 1753106581110
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 606f69690fd040708040e97437358c61
+run_name: amusing-robin-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106580786
+status: 3
+tags: []
+user_id: victor.francheto

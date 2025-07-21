@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/f1448d498a3740e1b405f98f8642694a/artifacts
+end_time: 1753106621646
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: f1448d498a3740e1b405f98f8642694a
+run_name: hilarious-skunk-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106621118
+status: 3
+tags: []
+user_id: victor.francheto

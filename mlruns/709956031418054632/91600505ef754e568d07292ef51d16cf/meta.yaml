@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/91600505ef754e568d07292ef51d16cf/artifacts
+end_time: 1753106580121
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 91600505ef754e568d07292ef51d16cf
+run_name: unruly-shoat-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106579802
+status: 3
+tags: []
+user_id: victor.francheto

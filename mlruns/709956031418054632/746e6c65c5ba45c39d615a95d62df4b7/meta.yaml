@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/746e6c65c5ba45c39d615a95d62df4b7/artifacts
+end_time: 1753106544482
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 746e6c65c5ba45c39d615a95d62df4b7
+run_name: gentle-skunk-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106544116
+status: 3
+tags: []
+user_id: victor.francheto

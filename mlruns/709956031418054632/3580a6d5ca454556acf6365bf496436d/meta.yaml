@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/3580a6d5ca454556acf6365bf496436d/artifacts
+end_time: 1753106555790
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 3580a6d5ca454556acf6365bf496436d
+run_name: sneaky-frog-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106554953
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/dd3c118d95fa40488b3bff380d5e33d1/artifacts
+end_time: 1753106620480
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: dd3c118d95fa40488b3bff380d5e33d1
+run_name: spiffy-dolphin-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106620123
+status: 3
+tags: []
+user_id: victor.francheto

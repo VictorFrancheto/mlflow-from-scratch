@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/6fdc11c2f44f4d6f9f9db66dbd432a23/artifacts
+end_time: 1753106627162
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 6fdc11c2f44f4d6f9f9db66dbd432a23
+run_name: unleashed-turtle-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106626818
+status: 3
+tags: []
+user_id: victor.francheto

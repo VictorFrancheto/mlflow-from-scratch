@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/d7b5b1993f3b412f8eb8b0300a769ff2/artifacts
+end_time: 1753106605822
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: d7b5b1993f3b412f8eb8b0300a769ff2
+run_name: gentle-dog-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106605506
+status: 3
+tags: []
+user_id: victor.francheto

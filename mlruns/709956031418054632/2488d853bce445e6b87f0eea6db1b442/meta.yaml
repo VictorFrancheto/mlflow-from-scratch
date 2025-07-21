@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/2488d853bce445e6b87f0eea6db1b442/artifacts
+end_time: 1753106529599
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 2488d853bce445e6b87f0eea6db1b442
+run_name: amusing-whale-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106526380
+status: 3
+tags: []
+user_id: victor.francheto

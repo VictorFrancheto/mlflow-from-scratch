@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/9cc8fa48ac034496b1d760e6bc118e4c/artifacts
+end_time: 1753106568475
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 9cc8fa48ac034496b1d760e6bc118e4c
+run_name: luminous-squirrel-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106568167
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/4fe0ba1398864b5cbd58e7456796bc81/artifacts
+end_time: 1753106586274
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 4fe0ba1398864b5cbd58e7456796bc81
+run_name: classy-mare-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106585948
+status: 3
+tags: []
+user_id: victor.francheto

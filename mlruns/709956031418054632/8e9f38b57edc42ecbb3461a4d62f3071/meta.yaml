@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/8e9f38b57edc42ecbb3461a4d62f3071/artifacts
+end_time: 1753106574844
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 8e9f38b57edc42ecbb3461a4d62f3071
+run_name: abundant-turtle-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106574458
+status: 3
+tags: []
+user_id: victor.francheto

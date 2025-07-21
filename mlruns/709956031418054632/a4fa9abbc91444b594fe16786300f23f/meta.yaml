@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/a4fa9abbc91444b594fe16786300f23f/artifacts
+end_time: 1753106602737
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: a4fa9abbc91444b594fe16786300f23f
+run_name: efficient-vole-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106602425
+status: 3
+tags: []
+user_id: victor.francheto

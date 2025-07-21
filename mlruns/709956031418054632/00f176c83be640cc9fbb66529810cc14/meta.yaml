@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/00f176c83be640cc9fbb66529810cc14/artifacts
+end_time: 1753106603184
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 00f176c83be640cc9fbb66529810cc14
+run_name: unique-goose-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106602852
+status: 3
+tags: []
+user_id: victor.francheto

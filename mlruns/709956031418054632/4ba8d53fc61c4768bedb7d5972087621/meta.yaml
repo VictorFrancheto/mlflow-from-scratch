@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/4ba8d53fc61c4768bedb7d5972087621/artifacts
+end_time: 1753106608021
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 4ba8d53fc61c4768bedb7d5972087621
+run_name: stately-seal-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106607688
+status: 3
+tags: []
+user_id: victor.francheto

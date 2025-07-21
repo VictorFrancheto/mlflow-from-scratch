@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/f1f2abd299714116917b4762b3b9eb78/artifacts
+end_time: 1753106598382
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: f1f2abd299714116917b4762b3b9eb78
+run_name: exultant-fish-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106597848
+status: 3
+tags: []
+user_id: victor.francheto

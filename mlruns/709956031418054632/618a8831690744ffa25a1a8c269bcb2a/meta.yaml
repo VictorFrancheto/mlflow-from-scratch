@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/618a8831690744ffa25a1a8c269bcb2a/artifacts
+end_time: 1753106594827
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 618a8831690744ffa25a1a8c269bcb2a
+run_name: worried-trout-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106594509
+status: 3
+tags: []
+user_id: victor.francheto

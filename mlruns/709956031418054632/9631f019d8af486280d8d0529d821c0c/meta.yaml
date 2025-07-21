@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/9631f019d8af486280d8d0529d821c0c/artifacts
+end_time: 1753106601845
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 9631f019d8af486280d8d0529d821c0c
+run_name: honorable-dove-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106601539
+status: 3
+tags: []
+user_id: victor.francheto

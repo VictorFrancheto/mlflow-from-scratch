@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/64e2fd1ba2e3433190fefc5a696fb9a2/artifacts
+end_time: 1753106580656
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 64e2fd1ba2e3433190fefc5a696fb9a2
+run_name: magnificent-gnu-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106580263
+status: 3
+tags: []
+user_id: victor.francheto

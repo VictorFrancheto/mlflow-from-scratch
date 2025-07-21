@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/01ac287c53064094be4cbb8ca1d715cc/artifacts
+end_time: 1753106568052
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 01ac287c53064094be4cbb8ca1d715cc
+run_name: bouncy-auk-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106567706
+status: 3
+tags: []
+user_id: victor.francheto

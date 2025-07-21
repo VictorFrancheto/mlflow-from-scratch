@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/07ef17caee9a4e8499d460d56becac29/artifacts
+end_time: 1753106590891
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 07ef17caee9a4e8499d460d56becac29
+run_name: sedate-bear-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106590582
+status: 3
+tags: []
+user_id: victor.francheto

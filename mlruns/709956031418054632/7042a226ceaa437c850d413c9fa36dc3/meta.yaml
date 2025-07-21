@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/7042a226ceaa437c850d413c9fa36dc3/artifacts
+end_time: 1753106560989
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 7042a226ceaa437c850d413c9fa36dc3
+run_name: carefree-slug-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106560585
+status: 3
+tags: []
+user_id: victor.francheto

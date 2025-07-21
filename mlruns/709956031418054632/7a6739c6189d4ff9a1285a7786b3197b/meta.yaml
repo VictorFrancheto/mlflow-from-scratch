@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/7a6739c6189d4ff9a1285a7786b3197b/artifacts
+end_time: 1753106571700
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 7a6739c6189d4ff9a1285a7786b3197b
+run_name: suave-kit-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106571366
+status: 3
+tags: []
+user_id: victor.francheto

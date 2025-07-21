@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/2202f21317984034a2e76fb9f36875c3/artifacts
+end_time: 1753106591749
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 2202f21317984034a2e76fb9f36875c3
+run_name: honorable-wasp-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106591428
+status: 3
+tags: []
+user_id: victor.francheto

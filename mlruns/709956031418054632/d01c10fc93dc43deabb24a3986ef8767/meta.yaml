@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/d01c10fc93dc43deabb24a3986ef8767/artifacts
+end_time: 1753106578798
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: d01c10fc93dc43deabb24a3986ef8767
+run_name: adorable-carp-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106578401
+status: 3
+tags: []
+user_id: victor.francheto

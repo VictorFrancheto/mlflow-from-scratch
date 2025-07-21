@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/447fb34347474f91862f9b1687392875/artifacts
+end_time: 1753106562822
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 447fb34347474f91862f9b1687392875
+run_name: calm-duck-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106562488
+status: 3
+tags: []
+user_id: victor.francheto

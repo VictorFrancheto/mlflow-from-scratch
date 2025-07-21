@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/afadad6bbdff49ddad8ab6859cacdd17/artifacts
+end_time: 1753106553619
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: afadad6bbdff49ddad8ab6859cacdd17
+run_name: omniscient-hen-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106553196
+status: 3
+tags: []
+user_id: victor.francheto

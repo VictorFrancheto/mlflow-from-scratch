@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/0b1023c8b2754b1a8ca01403f5984a66/artifacts
+end_time: 1753106547375
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 0b1023c8b2754b1a8ca01403f5984a66
+run_name: lyrical-mink-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106546946
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/8b3f1a78ac6641a7876fc1dc825a1b73/artifacts
+end_time: 1753106537049
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 8b3f1a78ac6641a7876fc1dc825a1b73
+run_name: invincible-bird-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106536588
+status: 3
+tags: []
+user_id: victor.francheto

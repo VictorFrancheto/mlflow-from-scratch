@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/e3313ba1bd0f44f8930558d0e37aac5c/artifacts
+end_time: 1753106610401
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: e3313ba1bd0f44f8930558d0e37aac5c
+run_name: sassy-hawk-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106610078
+status: 3
+tags: []
+user_id: victor.francheto

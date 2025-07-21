@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/8fc20455ff8a4b1183fd04c7a0c4de84/artifacts
+end_time: 1753106624470
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 8fc20455ff8a4b1183fd04c7a0c4de84
+run_name: adventurous-wren-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106624058
+status: 3
+tags: []
+user_id: victor.francheto

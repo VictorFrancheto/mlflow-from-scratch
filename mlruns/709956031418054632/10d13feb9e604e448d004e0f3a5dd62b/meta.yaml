@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/10d13feb9e604e448d004e0f3a5dd62b/artifacts
+end_time: 1753106534455
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 10d13feb9e604e448d004e0f3a5dd62b
+run_name: powerful-stag-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106534066
+status: 3
+tags: []
+user_id: victor.francheto

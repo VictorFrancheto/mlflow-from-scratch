@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/619db2065c1e46888d93e75165aa613e/artifacts
+end_time: 1753106556939
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: 619db2065c1e46888d93e75165aa613e
+run_name: big-robin-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106556560
+status: 3
+tags: []
+user_id: victor.francheto

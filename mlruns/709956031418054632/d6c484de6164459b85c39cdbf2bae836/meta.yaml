@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/709956031418054632/d6c484de6164459b85c39cdbf2bae836/artifacts
+end_time: 1753106525753
+entry_point_name: ''
+experiment_id: '709956031418054632'
+lifecycle_stage: active
+run_id: d6c484de6164459b85c39cdbf2bae836
+run_name: sedate-worm-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753106525377
+status: 3
+tags: []
+user_id: victor.francheto
