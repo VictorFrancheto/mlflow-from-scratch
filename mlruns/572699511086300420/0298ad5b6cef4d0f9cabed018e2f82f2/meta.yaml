@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/0298ad5b6cef4d0f9cabed018e2f82f2/artifacts
+end_time: 1753189404475
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 0298ad5b6cef4d0f9cabed018e2f82f2
+run_name: indecisive-snail-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189404126
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/d67f2c946fc24f868c87428f751f76ca/artifacts
+end_time: 1753189402658
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: d67f2c946fc24f868c87428f751f76ca
+run_name: sneaky-shad-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189402218
+status: 3
+tags: []
+user_id: victor.francheto

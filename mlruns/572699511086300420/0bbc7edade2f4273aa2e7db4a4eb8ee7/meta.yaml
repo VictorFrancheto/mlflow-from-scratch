@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/0bbc7edade2f4273aa2e7db4a4eb8ee7/artifacts
+end_time: 1753189381071
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 0bbc7edade2f4273aa2e7db4a4eb8ee7
+run_name: blushing-panda-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189380188
+status: 3
+tags: []
+user_id: victor.francheto

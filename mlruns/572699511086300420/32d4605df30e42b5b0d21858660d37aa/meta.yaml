@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/32d4605df30e42b5b0d21858660d37aa/artifacts
+end_time: 1753189403941
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 32d4605df30e42b5b0d21858660d37aa
+run_name: valuable-bat-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189403537
+status: 3
+tags: []
+user_id: victor.francheto

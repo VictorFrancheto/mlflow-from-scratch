@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/030e49b17b2b42f088e11f7b6a6b4cfe/artifacts
+end_time: 1753189330514
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 030e49b17b2b42f088e11f7b6a6b4cfe
+run_name: charming-koi-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189329447
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/d0bb197bb478431d94e9ae89521fa902/artifacts
+end_time: 1753189392379
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: d0bb197bb478431d94e9ae89521fa902
+run_name: capricious-steed-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189391926
+status: 3
+tags: []
+user_id: victor.francheto

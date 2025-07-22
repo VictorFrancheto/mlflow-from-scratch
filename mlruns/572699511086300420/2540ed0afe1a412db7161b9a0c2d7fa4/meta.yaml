@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/2540ed0afe1a412db7161b9a0c2d7fa4/artifacts
+end_time: 1753189398880
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 2540ed0afe1a412db7161b9a0c2d7fa4
+run_name: stately-fox-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189398428
+status: 3
+tags: []
+user_id: victor.francheto

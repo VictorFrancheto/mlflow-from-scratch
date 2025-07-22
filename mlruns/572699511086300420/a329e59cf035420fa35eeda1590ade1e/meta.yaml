@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/a329e59cf035420fa35eeda1590ade1e/artifacts
+end_time: 1753189355163
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: a329e59cf035420fa35eeda1590ade1e
+run_name: masked-cub-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189354610
+status: 3
+tags: []
+user_id: victor.francheto

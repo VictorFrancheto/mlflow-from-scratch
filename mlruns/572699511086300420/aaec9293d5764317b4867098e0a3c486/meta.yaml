@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/aaec9293d5764317b4867098e0a3c486/artifacts
+end_time: 1753189370524
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: aaec9293d5764317b4867098e0a3c486
+run_name: industrious-fox-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189369955
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/1a33232cbd36404db5c5abe9af747163/artifacts
+end_time: 1753189283616
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 1a33232cbd36404db5c5abe9af747163
+run_name: delightful-snail-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189283284
+status: 3
+tags: []
+user_id: victor.francheto

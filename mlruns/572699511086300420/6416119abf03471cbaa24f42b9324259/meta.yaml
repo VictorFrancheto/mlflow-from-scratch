@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/6416119abf03471cbaa24f42b9324259/artifacts
+end_time: 1753189378251
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 6416119abf03471cbaa24f42b9324259
+run_name: crawling-horse-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189377633
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/2cee83d5b3b840d98b35a8ff6e0220b5/artifacts
+end_time: 1753189376310
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 2cee83d5b3b840d98b35a8ff6e0220b5
+run_name: dapper-quail-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189375663
+status: 3
+tags: []
+user_id: victor.francheto

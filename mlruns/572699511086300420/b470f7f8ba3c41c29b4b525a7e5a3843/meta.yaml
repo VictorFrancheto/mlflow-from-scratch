@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/b470f7f8ba3c41c29b4b525a7e5a3843/artifacts
+end_time: 1753189364546
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: b470f7f8ba3c41c29b4b525a7e5a3843
+run_name: delicate-snipe-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189363801
+status: 3
+tags: []
+user_id: victor.francheto

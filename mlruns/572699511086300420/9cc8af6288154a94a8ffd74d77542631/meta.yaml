@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/9cc8af6288154a94a8ffd74d77542631/artifacts
+end_time: 1753189272070
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 9cc8af6288154a94a8ffd74d77542631
+run_name: indecisive-ram-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189271625
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/ada05481161c46b6b4d10a4ecc042753/artifacts
+end_time: 1753189269126
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: ada05481161c46b6b4d10a4ecc042753
+run_name: polite-shad-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189268833
+status: 3
+tags: []
+user_id: victor.francheto

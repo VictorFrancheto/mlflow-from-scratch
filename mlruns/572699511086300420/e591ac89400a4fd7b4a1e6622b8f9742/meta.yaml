@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/e591ac89400a4fd7b4a1e6622b8f9742/artifacts
+end_time: 1753189413617
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: e591ac89400a4fd7b4a1e6622b8f9742
+run_name: chill-bird-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189413186
+status: 3
+tags: []
+user_id: victor.francheto

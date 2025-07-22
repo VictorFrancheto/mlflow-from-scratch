@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/aed2fe5a2b8e4facbb3e445c327702a1/artifacts
+end_time: 1753189357639
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: aed2fe5a2b8e4facbb3e445c327702a1
+run_name: blushing-bird-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189356877
+status: 3
+tags: []
+user_id: victor.francheto

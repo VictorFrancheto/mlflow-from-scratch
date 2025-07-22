@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/7508b70a63944193878940410b9e67f3/artifacts
+end_time: 1753189408522
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 7508b70a63944193878940410b9e67f3
+run_name: judicious-trout-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189408052
+status: 3
+tags: []
+user_id: victor.francheto

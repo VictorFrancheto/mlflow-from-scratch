@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/b3e55518b5934dc1b0a1bf660eb11382/artifacts
+end_time: 1753189400010
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: b3e55518b5934dc1b0a1bf660eb11382
+run_name: thoughtful-sloth-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189399565
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/bf8ad3055cc44d2d845019b4742a20a4/artifacts
+end_time: 1753189379002
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: bf8ad3055cc44d2d845019b4742a20a4
+run_name: adorable-cub-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189378382
+status: 3
+tags: []
+user_id: victor.francheto

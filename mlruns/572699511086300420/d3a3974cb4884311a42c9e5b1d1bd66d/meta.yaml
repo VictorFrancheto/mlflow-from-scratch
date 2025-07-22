@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/d3a3974cb4884311a42c9e5b1d1bd66d/artifacts
+end_time: 1753189397138
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: d3a3974cb4884311a42c9e5b1d1bd66d
+run_name: ambitious-snake-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189396630
+status: 3
+tags: []
+user_id: victor.francheto

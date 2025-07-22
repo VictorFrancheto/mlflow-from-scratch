@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/8d91f7c87d3d45a680d8d39e2b020690/artifacts
+end_time: 1753189368059
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 8d91f7c87d3d45a680d8d39e2b020690
+run_name: delicate-zebra-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189367420
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/505700d672f5486fbd6e64e8dbbdba17/artifacts
+end_time: 1753189341041
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 505700d672f5486fbd6e64e8dbbdba17
+run_name: resilient-bass-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189340109
+status: 3
+tags: []
+user_id: victor.francheto

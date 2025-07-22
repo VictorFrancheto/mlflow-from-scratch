@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/8f0ad7dd68af43eb9b19ad6ac644da05/artifacts
+end_time: 1753189290455
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 8f0ad7dd68af43eb9b19ad6ac644da05
+run_name: dashing-crab-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189289449
+status: 3
+tags: []
+user_id: victor.francheto

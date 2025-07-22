@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/355232794ea148b396a9c54cf1597741/artifacts
+end_time: 1753189288485
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 355232794ea148b396a9c54cf1597741
+run_name: hilarious-tern-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189287971
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/02cda141f5b94f7d82afe2e450bc19dc/artifacts
+end_time: 1753189358369
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 02cda141f5b94f7d82afe2e450bc19dc
+run_name: grandiose-perch-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189357834
+status: 3
+tags: []
+user_id: victor.francheto

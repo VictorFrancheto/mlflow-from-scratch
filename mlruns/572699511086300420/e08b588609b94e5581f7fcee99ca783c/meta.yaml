@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/e08b588609b94e5581f7fcee99ca783c/artifacts
+end_time: 1753189279789
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: e08b588609b94e5581f7fcee99ca783c
+run_name: angry-finch-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189279440
+status: 3
+tags: []
+user_id: victor.francheto

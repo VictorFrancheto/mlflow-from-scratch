@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/ed51956bbdc54d1faad6b45e099f3863/artifacts
+end_time: 1753189268767
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: ed51956bbdc54d1faad6b45e099f3863
+run_name: welcoming-stoat-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189268428
+status: 3
+tags: []
+user_id: victor.francheto

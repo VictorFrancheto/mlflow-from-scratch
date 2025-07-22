@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/d76753c0b8d2498c9a8361782ab1adf5/artifacts
+end_time: 1753189290876
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: d76753c0b8d2498c9a8361782ab1adf5
+run_name: stately-rook-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189290557
+status: 3
+tags: []
+user_id: victor.francheto

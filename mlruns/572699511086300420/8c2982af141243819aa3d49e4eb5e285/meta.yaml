@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/8c2982af141243819aa3d49e4eb5e285/artifacts
+end_time: 1753189276858
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 8c2982af141243819aa3d49e4eb5e285
+run_name: marvelous-shad-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189276350
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/478d9115c8bd4f7abd2ac93a27faf6df/artifacts
+end_time: 1753189353578
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 478d9115c8bd4f7abd2ac93a27faf6df
+run_name: stylish-lark-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189352696
+status: 3
+tags: []
+user_id: victor.francheto

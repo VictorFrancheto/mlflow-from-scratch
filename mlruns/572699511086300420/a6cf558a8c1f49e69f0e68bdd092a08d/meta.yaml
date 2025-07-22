@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/a6cf558a8c1f49e69f0e68bdd092a08d/artifacts
+end_time: 1753189416680
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: a6cf558a8c1f49e69f0e68bdd092a08d
+run_name: marvelous-snake-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189415739
+status: 3
+tags: []
+user_id: victor.francheto

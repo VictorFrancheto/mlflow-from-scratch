@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/fa499f98996244dca2497d31a0865a61/artifacts
+end_time: 1753189391324
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: fa499f98996244dca2497d31a0865a61
+run_name: suave-yak-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189391016
+status: 3
+tags: []
+user_id: victor.francheto

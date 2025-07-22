@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/a0446f9beb8d4d3a98819e7c29fbec31/artifacts
+end_time: 1753189327652
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: a0446f9beb8d4d3a98819e7c29fbec31
+run_name: unleashed-fish-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189326398
+status: 3
+tags: []
+user_id: victor.francheto

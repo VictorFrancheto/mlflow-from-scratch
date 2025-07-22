@@ -1,0 +1,37 @@
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.12
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.core.Booster
+    model_format: ubj
+    xgb_version: 2.1.4
+is_signature_from_type_hint: false
+metadata:
+  model_data_version: 1
+mlflow_version: 3.1.1
+model_id: null
+model_size_bytes: 81867
+model_uuid: 8dbe8348bf9145c99f9fb37f9c487cbf
+prompts: null
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "Region", "required": true}, {"type": "long",
+    "name": "Fresh", "required": true}, {"type": "long", "name": "Milk", "required":
+    true}, {"type": "long", "name": "Grocery", "required": true}, {"type": "long",
+    "name": "Frozen", "required": true}, {"type": "long", "name": "Detergents_Paper",
+    "required": true}, {"type": "long", "name": "Delicassen", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-22 13:03:47.720520'

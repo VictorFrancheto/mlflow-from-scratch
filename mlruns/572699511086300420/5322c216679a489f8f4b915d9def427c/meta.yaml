@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/5322c216679a489f8f4b915d9def427c/artifacts
+end_time: 1753189381947
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 5322c216679a489f8f4b915d9def427c
+run_name: burly-rook-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189381213
+status: 3
+tags: []
+user_id: victor.francheto

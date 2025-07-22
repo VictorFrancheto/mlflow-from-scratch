@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/228a402030b84a65847defa44bd6926f/artifacts
+end_time: 1753189286415
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 228a402030b84a65847defa44bd6926f
+run_name: overjoyed-mole-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189285999
+status: 3
+tags: []
+user_id: victor.francheto

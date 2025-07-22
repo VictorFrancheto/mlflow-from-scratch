@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/dec33bd248b74a769fd8d5cfa0390ea9/artifacts
+end_time: 1753189367235
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: dec33bd248b74a769fd8d5cfa0390ea9
+run_name: resilient-wren-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189366715
+status: 3
+tags: []
+user_id: victor.francheto

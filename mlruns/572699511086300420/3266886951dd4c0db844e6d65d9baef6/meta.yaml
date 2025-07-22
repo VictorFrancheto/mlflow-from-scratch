@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/3266886951dd4c0db844e6d65d9baef6/artifacts
+end_time: 1753189285902
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 3266886951dd4c0db844e6d65d9baef6
+run_name: kindly-ox-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189285436
+status: 3
+tags: []
+user_id: victor.francheto

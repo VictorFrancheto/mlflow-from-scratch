@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/cc0b34ce5e4b4888a456eda0cf838659/artifacts
+end_time: 1753189267541
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: cc0b34ce5e4b4888a456eda0cf838659
+run_name: inquisitive-lark-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189267165
+status: 3
+tags: []
+user_id: victor.francheto

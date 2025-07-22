@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/e6a027cbfb6148ceb6246cf1979d41eb/artifacts
+end_time: 1753189283185
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: e6a027cbfb6148ceb6246cf1979d41eb
+run_name: unique-deer-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189282695
+status: 3
+tags: []
+user_id: victor.francheto

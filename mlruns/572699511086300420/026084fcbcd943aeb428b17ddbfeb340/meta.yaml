@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/026084fcbcd943aeb428b17ddbfeb340/artifacts
+end_time: 1753189337987
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 026084fcbcd943aeb428b17ddbfeb340
+run_name: auspicious-kite-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189336708
+status: 3
+tags: []
+user_id: victor.francheto

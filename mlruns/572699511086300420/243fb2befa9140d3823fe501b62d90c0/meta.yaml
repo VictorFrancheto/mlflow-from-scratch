@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/243fb2befa9140d3823fe501b62d90c0/artifacts
+end_time: 1753189310892
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 243fb2befa9140d3823fe501b62d90c0
+run_name: hilarious-finch-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189310497
+status: 3
+tags: []
+user_id: victor.francheto

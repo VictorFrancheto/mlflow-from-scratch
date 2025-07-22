@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/50e4b284fc664667b97f4ec25c706f2f/artifacts
+end_time: 1753189388316
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 50e4b284fc664667b97f4ec25c706f2f
+run_name: caring-ant-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189387831
+status: 3
+tags: []
+user_id: victor.francheto

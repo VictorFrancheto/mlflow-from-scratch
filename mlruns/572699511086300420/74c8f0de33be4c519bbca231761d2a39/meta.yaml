@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/74c8f0de33be4c519bbca231761d2a39/artifacts
+end_time: 1753189405613
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 74c8f0de33be4c519bbca231761d2a39
+run_name: adorable-crow-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189405184
+status: 3
+tags: []
+user_id: victor.francheto

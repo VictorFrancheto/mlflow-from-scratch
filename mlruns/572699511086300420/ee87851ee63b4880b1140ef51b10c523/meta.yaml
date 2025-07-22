@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/ee87851ee63b4880b1140ef51b10c523/artifacts
+end_time: 1753189410618
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: ee87851ee63b4880b1140ef51b10c523
+run_name: whimsical-quail-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189410176
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/5e5234c22ca2499b982dd072a819f121/artifacts
+end_time: 1753189279341
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 5e5234c22ca2499b982dd072a819f121
+run_name: mysterious-bird-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189278963
+status: 3
+tags: []
+user_id: victor.francheto

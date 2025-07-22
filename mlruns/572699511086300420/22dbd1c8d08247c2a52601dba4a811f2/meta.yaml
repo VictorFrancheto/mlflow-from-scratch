@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/22dbd1c8d08247c2a52601dba4a811f2/artifacts
+end_time: 1753189383516
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 22dbd1c8d08247c2a52601dba4a811f2
+run_name: chill-crane-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189382852
+status: 3
+tags: []
+user_id: victor.francheto

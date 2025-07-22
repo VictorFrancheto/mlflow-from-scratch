@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/cdd56ed7552d4597abb3ec944dc6affe/artifacts
+end_time: 1753189405056
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: cdd56ed7552d4597abb3ec944dc6affe
+run_name: skittish-donkey-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189404621
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/181b4e484f9c4e50b248561d890bf82c/artifacts
+end_time: 1753189287861
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 181b4e484f9c4e50b248561d890bf82c
+run_name: colorful-fish-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189287545
+status: 3
+tags: []
+user_id: victor.francheto

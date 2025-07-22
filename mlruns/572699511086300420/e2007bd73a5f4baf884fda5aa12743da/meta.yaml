@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/e2007bd73a5f4baf884fda5aa12743da/artifacts
+end_time: 1753189284899
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: e2007bd73a5f4baf884fda5aa12743da
+run_name: rogue-zebra-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189284598
+status: 3
+tags: []
+user_id: victor.francheto

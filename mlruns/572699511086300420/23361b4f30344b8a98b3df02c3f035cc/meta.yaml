@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/23361b4f30344b8a98b3df02c3f035cc/artifacts
+end_time: 1753189345597
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 23361b4f30344b8a98b3df02c3f035cc
+run_name: burly-sow-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189344929
+status: 3
+tags: []
+user_id: victor.francheto

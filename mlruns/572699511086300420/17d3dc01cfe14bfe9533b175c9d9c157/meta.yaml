@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/17d3dc01cfe14bfe9533b175c9d9c157/artifacts
+end_time: 1753189396515
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 17d3dc01cfe14bfe9533b175c9d9c157
+run_name: monumental-snipe-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189396134
+status: 3
+tags: []
+user_id: victor.francheto

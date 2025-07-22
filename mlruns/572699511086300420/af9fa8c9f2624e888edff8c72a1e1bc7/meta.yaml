@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/af9fa8c9f2624e888edff8c72a1e1bc7/artifacts
+end_time: 1753189312747
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: af9fa8c9f2624e888edff8c72a1e1bc7
+run_name: bittersweet-worm-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189312332
+status: 3
+tags: []
+user_id: victor.francheto

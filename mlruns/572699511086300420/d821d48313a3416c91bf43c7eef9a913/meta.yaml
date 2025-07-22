@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/d821d48313a3416c91bf43c7eef9a913/artifacts
+end_time: 1753189401521
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: d821d48313a3416c91bf43c7eef9a913
+run_name: likeable-swan-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189400121
+status: 3
+tags: []
+user_id: victor.francheto

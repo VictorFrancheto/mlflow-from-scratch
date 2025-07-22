@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/9b27d02faa1940c6b1adc6a2b9ec20ab/artifacts
+end_time: 1753189335022
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 9b27d02faa1940c6b1adc6a2b9ec20ab
+run_name: merciful-zebra-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189333634
+status: 3
+tags: []
+user_id: victor.francheto

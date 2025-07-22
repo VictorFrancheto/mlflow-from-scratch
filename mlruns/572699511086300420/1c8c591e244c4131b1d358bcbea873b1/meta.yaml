@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/1c8c591e244c4131b1d358bcbea873b1/artifacts
+end_time: 1753189324864
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 1c8c591e244c4131b1d358bcbea873b1
+run_name: delicate-bear-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189324359
+status: 3
+tags: []
+user_id: victor.francheto

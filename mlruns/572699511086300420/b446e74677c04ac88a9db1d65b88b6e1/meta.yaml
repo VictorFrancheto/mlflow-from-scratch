@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/b446e74677c04ac88a9db1d65b88b6e1/artifacts
+end_time: 1753189346398
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: b446e74677c04ac88a9db1d65b88b6e1
+run_name: loud-goat-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189345798
+status: 3
+tags: []
+user_id: victor.francheto

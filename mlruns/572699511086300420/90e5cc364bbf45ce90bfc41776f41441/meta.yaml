@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/90e5cc364bbf45ce90bfc41776f41441/artifacts
+end_time: 1753189384232
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 90e5cc364bbf45ce90bfc41776f41441
+run_name: welcoming-crow-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189383649
+status: 3
+tags: []
+user_id: victor.francheto

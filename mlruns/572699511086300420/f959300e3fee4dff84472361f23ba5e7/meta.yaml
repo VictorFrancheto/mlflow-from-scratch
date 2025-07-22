@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/f959300e3fee4dff84472361f23ba5e7/artifacts
+end_time: 1753189311376
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: f959300e3fee4dff84472361f23ba5e7
+run_name: whimsical-penguin-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189311020
+status: 3
+tags: []
+user_id: victor.francheto

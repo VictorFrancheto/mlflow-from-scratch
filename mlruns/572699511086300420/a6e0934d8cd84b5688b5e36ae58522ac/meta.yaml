@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/a6e0934d8cd84b5688b5e36ae58522ac/artifacts
+end_time: 1753189368884
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: a6e0934d8cd84b5688b5e36ae58522ac
+run_name: carefree-foal-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189368246
+status: 3
+tags: []
+user_id: victor.francheto

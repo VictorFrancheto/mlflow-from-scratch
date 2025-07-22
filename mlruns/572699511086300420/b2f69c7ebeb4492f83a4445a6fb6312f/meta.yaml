@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/b2f69c7ebeb4492f83a4445a6fb6312f/artifacts
+end_time: 1753189288924
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: b2f69c7ebeb4492f83a4445a6fb6312f
+run_name: capricious-cat-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189288607
+status: 3
+tags: []
+user_id: victor.francheto

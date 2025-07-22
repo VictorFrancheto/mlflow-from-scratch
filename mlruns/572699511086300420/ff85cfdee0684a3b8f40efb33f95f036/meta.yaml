@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/ff85cfdee0684a3b8f40efb33f95f036/artifacts
+end_time: 1753189274706
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: ff85cfdee0684a3b8f40efb33f95f036
+run_name: bemused-mule-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189272770
+status: 3
+tags: []
+user_id: victor.francheto

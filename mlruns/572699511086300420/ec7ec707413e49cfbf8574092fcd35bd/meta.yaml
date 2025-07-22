@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/ec7ec707413e49cfbf8574092fcd35bd/artifacts
+end_time: 1753189419297
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: ec7ec707413e49cfbf8574092fcd35bd
+run_name: bouncy-seal-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189418733
+status: 3
+tags: []
+user_id: victor.francheto

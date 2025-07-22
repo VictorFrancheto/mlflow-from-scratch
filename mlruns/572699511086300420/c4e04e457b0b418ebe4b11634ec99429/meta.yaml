@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/c4e04e457b0b418ebe4b11634ec99429/artifacts
+end_time: 1753189389929
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: c4e04e457b0b418ebe4b11634ec99429
+run_name: respected-panda-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189389427
+status: 3
+tags: []
+user_id: victor.francheto

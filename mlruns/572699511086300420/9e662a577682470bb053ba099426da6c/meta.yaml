@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/9e662a577682470bb053ba099426da6c/artifacts
+end_time: 1753189372199
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 9e662a577682470bb053ba099426da6c
+run_name: sedate-lamb-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189370724
+status: 3
+tags: []
+user_id: victor.francheto

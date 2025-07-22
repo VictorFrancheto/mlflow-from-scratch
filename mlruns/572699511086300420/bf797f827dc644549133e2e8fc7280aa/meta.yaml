@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/bf797f827dc644549133e2e8fc7280aa/artifacts
+end_time: 1753189278861
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: bf797f827dc644549133e2e8fc7280aa
+run_name: abrasive-crab-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189278562
+status: 3
+tags: []
+user_id: victor.francheto

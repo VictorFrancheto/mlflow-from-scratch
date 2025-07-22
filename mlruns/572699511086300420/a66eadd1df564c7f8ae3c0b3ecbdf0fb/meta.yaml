@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/a66eadd1df564c7f8ae3c0b3ecbdf0fb/artifacts
+end_time: 1753189328510
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: a66eadd1df564c7f8ae3c0b3ecbdf0fb
+run_name: burly-chimp-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189327828
+status: 3
+tags: []
+user_id: victor.francheto

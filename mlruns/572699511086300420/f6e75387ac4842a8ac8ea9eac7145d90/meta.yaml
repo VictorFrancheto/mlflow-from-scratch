@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/f6e75387ac4842a8ac8ea9eac7145d90/artifacts
+end_time: 1753189417983
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: f6e75387ac4842a8ac8ea9eac7145d90
+run_name: bedecked-pig-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189417468
+status: 3
+tags: []
+user_id: victor.francheto

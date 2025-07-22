@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/44e303ffc28b43b1b88ac65ef01dc99b/artifacts
+end_time: 1753189421883
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 44e303ffc28b43b1b88ac65ef01dc99b
+run_name: traveling-smelt-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189421098
+status: 3
+tags: []
+user_id: victor.francheto

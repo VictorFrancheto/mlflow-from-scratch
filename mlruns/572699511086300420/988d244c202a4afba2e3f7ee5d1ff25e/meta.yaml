@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/988d244c202a4afba2e3f7ee5d1ff25e/artifacts
+end_time: 1753189336448
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 988d244c202a4afba2e3f7ee5d1ff25e
+run_name: sassy-cow-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189335198
+status: 3
+tags: []
+user_id: victor.francheto

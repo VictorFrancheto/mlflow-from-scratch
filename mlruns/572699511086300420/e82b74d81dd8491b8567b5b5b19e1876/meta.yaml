@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/e82b74d81dd8491b8567b5b5b19e1876/artifacts
+end_time: 1753189278462
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: e82b74d81dd8491b8567b5b5b19e1876
+run_name: upbeat-skink-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189277939
+status: 3
+tags: []
+user_id: victor.francheto

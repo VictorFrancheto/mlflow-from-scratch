@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/cbd0018c2c7b48a7bad0dbdd91422e70/artifacts
+end_time: 1753189347414
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: cbd0018c2c7b48a7bad0dbdd91422e70
+run_name: powerful-kite-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189346582
+status: 3
+tags: []
+user_id: victor.francheto

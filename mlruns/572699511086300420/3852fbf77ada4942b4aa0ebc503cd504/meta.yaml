@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/3852fbf77ada4942b4aa0ebc503cd504/artifacts
+end_time: 1753189281068
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 3852fbf77ada4942b4aa0ebc503cd504
+run_name: shivering-moose-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189280536
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/7c2627377a364510930c99050524e77d/artifacts
+end_time: 1753189415611
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 7c2627377a364510930c99050524e77d
+run_name: rogue-snipe-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189415281
+status: 3
+tags: []
+user_id: victor.francheto

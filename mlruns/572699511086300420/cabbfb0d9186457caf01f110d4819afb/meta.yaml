@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/cabbfb0d9186457caf01f110d4819afb/artifacts
+end_time: 1753189339945
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: cabbfb0d9186457caf01f110d4819afb
+run_name: silent-stag-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189339224
+status: 3
+tags: []
+user_id: victor.francheto

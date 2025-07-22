@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/84a4c92612ee459c92e1c0fed98be51a/artifacts
+end_time: 1753189305136
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 84a4c92612ee459c92e1c0fed98be51a
+run_name: serious-moose-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189303459
+status: 3
+tags: []
+user_id: victor.francheto

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/28a311cf04614377a92a53f0dfbc9f69/artifacts
+end_time: 1753189386903
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 28a311cf04614377a92a53f0dfbc9f69
+run_name: gaudy-cod-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189386434
+status: 3
+tags: []
+user_id: victor.francheto

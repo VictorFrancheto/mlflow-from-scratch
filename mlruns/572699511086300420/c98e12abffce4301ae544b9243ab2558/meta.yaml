@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/c98e12abffce4301ae544b9243ab2558/artifacts
+end_time: 1753189355927
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: c98e12abffce4301ae544b9243ab2558
+run_name: placid-bee-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189355346
+status: 3
+tags: []
+user_id: victor.francheto

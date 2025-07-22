@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/36efbb1cefc441d9b74dfff2d9c3dbd1/artifacts
+end_time: 1753189402096
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 36efbb1cefc441d9b74dfff2d9c3dbd1
+run_name: abundant-ram-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189401654
+status: 3
+tags: []
+user_id: victor.francheto

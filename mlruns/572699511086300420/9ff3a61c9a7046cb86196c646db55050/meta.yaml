@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/9ff3a61c9a7046cb86196c646db55050/artifacts
+end_time: 1753189320274
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: 9ff3a61c9a7046cb86196c646db55050
+run_name: persistent-vole-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189319654
+status: 3
+tags: []
+user_id: victor.francheto

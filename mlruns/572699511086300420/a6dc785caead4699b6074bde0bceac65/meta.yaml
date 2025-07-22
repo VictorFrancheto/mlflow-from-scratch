@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/a6dc785caead4699b6074bde0bceac65/artifacts
+end_time: 1753189284065
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: a6dc785caead4699b6074bde0bceac65
+run_name: spiffy-ram-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189283716
+status: 3
+tags: []
+user_id: victor.francheto

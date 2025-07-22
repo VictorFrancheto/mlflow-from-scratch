@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572699511086300420/f398b9d059fc49fb920e61b6912e5993/artifacts
+end_time: 1753189308705
+entry_point_name: ''
+experiment_id: '572699511086300420'
+lifecycle_stage: active
+run_id: f398b9d059fc49fb920e61b6912e5993
+run_name: flawless-crane-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753189307915
+status: 3
+tags: []
+user_id: victor.francheto
